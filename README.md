@@ -1,5 +1,3 @@
-# Probando github
-
 # Fork y Pull Request
 
 1. Ir a la pagina https://github.com/undefined-academy/semana-1 y crear un fork dando click __new fork__, dejar el nombre igual y aceptar
@@ -22,7 +20,3 @@ git push origin
 8. Volvemos al repositorio de https://github.com/undefined-academy/semana-1 y le damos al boton **Pull request**
 9. Por defecto nos intenta compararar las mismas ramas, asi que le damos en **acoss forks** y cambiamos el _head repository_ por el nuestro
 10. Revisamos los cambios que se van a realizar y le damos a **Create pull request**
-
-# Mi perfil de Github
-
-### https://github.com/GuishePR
